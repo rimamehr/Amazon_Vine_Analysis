@@ -40,8 +40,9 @@ Our Data analysis revealed that;
 
 Before the analysis was complete, I hypothesized that a paid vine program would have a higher percentage of 5-star reviews but the calculations proved otherwise. The unpaid vine program had 46.86% of 5-star reviews in comparison to the paid program that had 42.16%, thus there is no bias.
 
-We could do some additional filtering of our data and include verified purchase as our criteria to further clean out the data and see if the comparison between paid and unpaid programs changes.
+We could do some additional filtering of our data and include verified purchase as our criteria to further clean out the data and see if the comparison between paid and unpaid programs changes. We would then start this analysis with 4,099,276 instead of 4,880,466.
 
-
-
+<p align="left">
+  <img src="/images/verified.png" width="500">
+  </p>
 
