@@ -20,11 +20,11 @@ and load the transformed data into pgAdmin. Next, we used PySpark to determine i
 - We then counted the number of 5-star reviews for both paid and unpaid programs.
 - The final step involved calculating % of 5-star reviews between the two programs.
 - The paid vine program had 509 5-star reviews out of 1207 total paid reviews.
-- The unpaid vine program had 45,858 5-star reviews out of 97,839 total unpaid reivews.
+- The unpaid vine program had 45,858 5-star reviews out of 97,839 total unpaid reviews.
 
 Our Data analysis revealed that;
 
-- **Percentage of 5-star reviews for paid Vine program was: 42.170671%**
+- **Percentage of 5-star reviews for the paid Vine program was: 42.170671%**
 
 <p align="left">
   <img src="/images/paid.png" width="500">
@@ -38,9 +38,9 @@ Our Data analysis revealed that;
 
 ## Summary
 
-Before the analysis was complete, my hypothesis was that a paid vine program would have a higher percentage of 5-star reviews but the calculations proved otherwise. The unpaid vine program had 46.86% of 5-star reviews in comparison to the paid program that had 42.16%.
+Before the analysis was complete, I hypothesized that a paid vine program would have a higher percentage of 5-star reviews but the calculations proved otherwise. The unpaid vine program had 46.86% of 5-star reviews in comparison to the paid program that had 42.16%.
 
-We could do some additional filtering of our data and include verified purchase as our criteria to further clean out the data and see if the comparison between paid and unpaid program changes.
+We could do some additional filtering of our data and include verified purchase as our criteria to further clean out the data and see if the comparison between paid and unpaid programs changes.
 
 
 
