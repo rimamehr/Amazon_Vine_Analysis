@@ -24,8 +24,14 @@ and load the transformed data into pgAdmin. Next, we used PySpark to determine i
 
 Our Data analysis revealed that;
 
-- Percentage of 5-star reviews for paid Vine program was: 42.170671%
-- Percentage of 5-star reviews for unpaid Vine program was: 46.870880%
+- **Percentage of 5-star reviews for paid Vine program was: 42.170671%**
+<p align="left">
+  <img src="/Images/paid.png" width="500">
+  </p>
+- **Percentage of 5-star reviews for unpaid Vine program was: 46.870880%**
+<p align="left">
+  <img src="/Images/unpaid.png" width="500">
+  </p>
 
 ## Summary
 
